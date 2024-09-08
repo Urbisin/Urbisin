@@ -1,16 +1,28 @@
-## Hi there 👋
+# Welcome to My Personal Repository!
 
-<!--
-**Urbisin/Urbisin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! I'm **Sebastián**, a Computer Science student at the **Universidad de Ingeniería de Tecnología** in Perú. I'm currently in my sixth semester and have been passionate about technology and problem-solving from a young age. 
 
-Here are some ideas to get you started:
+## 💻 Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**: 
+  - Proficient in: Python, C++, Basic Java, JavaScript
+  - Familiar with: SQL, NoSQL
+  - Learning: Godot Engine for game development
+
+- **Frameworks and Libraries**:
+  - Experienced in **React** for frontend development.
+  - Comfortable with **Gatsby** for static site generation.
+  
+- **Technologies**:
+  - Hands-on experience with **AWS** for cloud computing.
+  - Working knowledge of **Git** and version control for collaborative development.
+
+## 🎮 Projects and Interests
+
+- I'm currently learning **Godot** to explore game development, with a focus on creating interactive dialogues for role-playing games.
+- I have a strong interest in **algorithm design** and data structures, with past work in building a **segment tree** visualization using **Qt**.
+- Enthusiastic about **environmental awareness**, I have worked on an art project using **recycled materials** to build sculptures.
+
+## 📈 Always Learning
+
+I love exploring new areas, from **numerical methods for dynamic systems** to learning how to develop full-stack applications. I’m particularly interested in systems that help improve daily tasks, like building a **virtual assistant** for smart home management.
