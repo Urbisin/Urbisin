@@ -1,4 +1,4 @@
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa# Welcome to My Personal Repository!
+# Welcome to My Personal Repository!
 
 👋 Hi! I'm **Sebastián**, a Computer Science student at the **Universidad de Ingeniería de Tecnología** in Perú. I'm currently in my sixth semester and have been passionate about technology and problem-solving from a young age. 
 
