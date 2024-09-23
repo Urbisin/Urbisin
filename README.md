@@ -23,9 +23,9 @@
 - I have a strong interest in **algorithm design** and data structures, with past work in building a **segment tree** visualization using **Qt**.
 
 <a href="https://github.com/Urbisin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustMaykol&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urbisin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 <a href="https://github.com/Urbisin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustMaykol&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Urbisin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
